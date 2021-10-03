@@ -1,0 +1,82 @@
+#EXTM3U
+
+#EXTINF:-1,INF | BABY FIRST
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/51394
+#EXTINF:-1,INF | BABY TV (R)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/536
+#EXTINF:-1,INF | Baby TV FHD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1003
+#EXTINF:-1,INF | BOOMERANG (R)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/537
+#EXTINF:-1,INF | Boomerang FHD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1004
+#EXTINF:-1,INF | Boomerang SD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1005
+#EXTINF:-1,INF | CACHIPUM TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w1586053473.m3u8
+#EXTINF:-1,INF | Cartoon Network FHD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1006
+#EXTINF:-1,INF | Cartoon Network SD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1007
+#EXTINF:-1,INF | DISCOVERY KIDS (R)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/538
+#EXTINF:-1,INF | Discovery Kids FHD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1008
+#EXTINF:-1,INF | Discovery Kids HD CO (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1009
+#EXTINF:-1,INF | DISNEY (R)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/539
+#EXTINF:-1,INF | Disney Channel (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1011
+#EXTINF:-1,INF | DISNEY CHANNEL FHD 
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/66007
+#EXTINF:-1,INF | Disney Channel FHD MX (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1010
+#EXTINF:-1,INF | DISNEY JR (NX)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/540
+#EXTINF:-1,INF | DISNEY JR SD
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/66008
+#EXTINF:-1,INF | Disney Junior SD  CO (lt)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1013
+#EXTINF:-1,INF | DISNEY XD (R)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/541
+#EXTINF:-1,INF | Disney XD FHD (mv)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1014
+#EXTINF:-1,INF | DISNEY XD SD
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/66009
+#EXTINF:-1,INF | Disney XD SD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1015
+#EXTINF:-1,INF | ETC TV
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/9228
+#EXTINF:-1,INF | ETC TV | FHD
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/67393
+#EXTINF:-1,INF | LOCOMOTION
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1,INF | LOCOMOTION TV
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/19890
+#EXTINF:-1,INF | Nat Geo Kids FHD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1016
+#EXTINF:-1,INF | Nat Geo Kids SD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1017
+#EXTINF:-1,INF | NATGEO KIDS (R)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/542
+#EXTINF:-1,INF | Nick 2 FHD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1018
+#EXTINF:-1,INF | Nick 2 SD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1019
+#EXTINF:-1,INF | NICK JR (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/543
+#EXTINF:-1,INF | NICK JR (UR)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/42645
+#EXTINF:-1,INF | NICKELODEON (R)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/544
+#EXTINF:-1,INF | Nickelodeon FHD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1020
+#EXTINF:-1,INF | Nickelodeon SD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1021
+#EXTINF:-1,INF | PEQUERADIO TV
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/47820
+#EXTINF:-1,INF | TOONCAST (R)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/545
+#EXTINF:-1,INF | Tooncast SD (P)
+http://iptv.premiumstore.biz:8080/Jano01/Jano01/1022
